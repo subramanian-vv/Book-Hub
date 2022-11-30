@@ -8,7 +8,7 @@ A user-based and product-based recommendation system that recommends books accor
 2. Run the following command to install the requirements  
 
 
-    ``` pip install requirements.txt ```  
+    ``` pip install -r requirements.txt ```  
     
     
 3. Run the `Recommendation.py` file to train the declared models and generate the required pickle file as follows   
